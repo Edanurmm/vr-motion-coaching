@@ -1,0 +1,15 @@
+# API anahtarları
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+build/
+
+# Model dosyası (büyük)
+models/rf_model.pkl

@@ -1,0 +1,8 @@
+Scenario,Rater1,Rater2,Rater3,Overall,Std_Dev,Agreement
+all_wrong,5.0,4.67,4.67,4.78,0.16,High
+correct,4.0,3.33,2.67,3.33,0.54,Medium
+slow,5.0,4.67,5.0,4.89,0.16,High
+slow_and_too_short,5.0,4.33,4.67,4.67,0.27,High
+slow_and_wrong_angle,5.0,5.0,4.67,4.89,0.16,High
+too_short,5.0,4.33,5.0,4.78,0.32,Medium
+wrong_angle,5.0,4.67,5.0,4.89,0.16,High

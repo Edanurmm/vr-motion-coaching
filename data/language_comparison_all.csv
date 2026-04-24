@@ -1,0 +1,106 @@
+movement,scenario,speed,angle,duration,hit,output_en,output_tr
+punch,all_wrong,low,incorrect,short,False,"PROBLEM: The jab/cross punch lacked the necessary speed and precision, resulting in a missed target due to an incorrect angle and insufficient duration.  
+FIX: Focus on increasing the speed of your punches by engaging your core and legs for better power, ensure your punches are executed from the correct angle by aligning your shoulders, and extend the duration of your punches to stabilize your technique and follow through.  
+MOTIVATION: Keep practicing, and with each repetition, you'll feel your technique and power improving—you're getting closer to mastering that perfect strike!","SORUN: Boks yumruğunuzun hızı düşük, açısı yanlış ve hareket süresi çok kısa olduğundan hedefi ıskalıyorsunuz.  
+DÜZELTME: Hızınızı artırmak için yumruğunuzu daha enerjik bir şekilde yukarıdan aşağıya doğru, omuz ve kalça gücünüzü kullanarak fırlatın; açınızı düzeltmek için hedefinizle doğru hizalanmayı ve vücut açınızı gözden geçirin; hareket sürenizi uzatmak için her vuruş arasında dinlenme sürelerinizi artırarak daha kontrollü bir şekilde çalışın.  
+MOTİVASYON: Unutmayın, her antrenman sizi hedeflerinize bir adım daha yaklaştırıyor; azminizle her şeyi başarabilirsiniz!"
+punch,correct,good,correct,normal,True,"PROBLEM: There are no evident technical errors in the jab/cross punch movement, but that doesn't mean there's no room for improvement.  
+FIX: Focus on improving your punch extension and follow-through to maximize power and accuracy.  
+MOTIVATION: Keep pushing your limits, and remember that even small adjustments can lead to big improvements in your performance!","SORUN: Antrenmanın genelinde hiç hata tespit edilmedi, bu da geliştirme alanlarının gözden kaçabileceği anlamına geliyor.  
+DÜZELTME: Teknikinizi daha da geliştirmek için farklı kombinasyonlar deneyerek pratik yapabilir ve her seferinde yaşadığınız hisleri değerlendirebilirsiniz.  
+MOTİVASYON: Harika bir başlangıç yaptınız, şimdi ilerlemenizi sürdürmek için kendinize yeni hedefler koyun ve her gün biraz daha ilerleyin!"
+punch,slow,low,correct,normal,False,"PROBLEM: The jab/cross punch is executed with insufficient speed and precision, leading to missed targets.  
+FIX: Focus on hip rotation and follow-through to increase speed and ensure you are targeting the right spot consistently.  
+MOTIVATION: You've got the technique down; now let's unlock your full potential by sharpening your speed and accuracy!","SORUN: Hızın düşük olması ve hedefin ıskalanması, etkin bir boks yumruğu atmanı engelliyor.  
+DÜZELTME: Antrenman sırasında yumruğunu hızlı ve hedefe odaklı bir şekilde atabilmek için ayak hareketlerini hızlandırmaya ve vücut ağırlığını etkili bir şekilde kullanmaya odaklan.  
+MOTİVASYON: Unutma, her antrenman seni daha güçlü ve isabetli bir boksör yapıyor; sadece biraz daha pratik yapman yeter!"
+punch,slow_and_too_short,low,correct,short,False,"PROBLEM: The jab/cross punch execution is too slow, resulting in a missed target.  
+FIX: Focus on increasing your hand speed by incorporating quick shadowboxing drills and practicing explosive movements with resistance bands.  
+MOTIVATION: You have the potential to deliver powerful punches; keep pushing your limits and you'll see great improvements!","SORUN: Boks yumruğunun hızı düşük ve hareket süresi çok kısa olduğu için hedef ıskalanıyor.  
+DÜZELTME: Antrenman sırasında vuruşun hızını artırmak için ayak hareketlerini ve gövde dönüşünü lehinize kullanarak zamanlamayı geliştirin. Ayrıca, hedefe odaklanarak yumruk kirliliğini azaltın ve doğru antrenman teknikleriyle çeviklik üzerinde çalışın.  
+MOTİVASYON: Unutmayın, her vuruşta gelişmektesiniz; azimle çalışırsanız başarı her zaman gelir!"
+punch,slow_and_wrong_angle,low,incorrect,normal,False,"PROBLEM: The jab/cross combination is executed with insufficient speed, resulting in a missed target and incorrect angle.  
+FIX: Focus on snapping your punches quickly and ensuring your lead foot pivots toward the target to create better angle and leverage.  
+MOTIVATION: Keep practicing, and you'll quickly see improvements in your speed and accuracy with every session!","SORUN: Boks yumruğunun hızı düşük, açısı yanlış ve hedef ıskalandı.  
+DÜZELTME: Yumruğunu hızlandırmak için antrenmanlarda hız odaklı çalışmalar yap; vücut ağırlığı, lastik ya da hızlanma topları gibi direnç araçları kullanarak açını düzeltmek için doğru teknikleri öğren ve uygulamaya çalış.  
+MOTİVASYON: Her antrenman, hedeflerine bir adım daha yaklaşmanı sağlıyor; devam et ve potansiyelini keşfet!"
+punch,too_short,good,correct,short,False,"PROBLEM: The duration of the jab/cross punch is too short, leading to missed targets.  
+FIX: Focus on extending the punch duration by fully committing to the extension and follow-through, ensuring you maintain control throughout.  
+MOTIVATION: Keep putting in the effort; every punch gets you closer to mastering your technique!","SORUN: Boks yumruğu hareketinin süresi çok kısa olduğu için hedef ıskalanıyor.  
+DÜZELTME: Yumruğunuzu fırlatırken hareketinize daha fazla zaman tanıyın ve hızınızı azaltarak hedefe odaklanabilirsiniz; bu şekilde hedefinize daha doğru bir şekilde ulaşacaksınız.  
+MOTİVASYON: Unutmayın, her büyük şampiyon sabrın ve doğru tekniğin önemini bilir; bir adım daha atarak daha güçlü oluyorsunuz!"
+punch,wrong_angle,good,incorrect,normal,False,"PROBLEM: The angle of your jab/cross punch was incorrect, leading to a missed target.  
+FIX: Adjust your shoulder position and pivot your foot to create the proper angle for your punches, aiming to keep your arm extended and in line with the target.  
+MOTIVATION: You're moving with great speed, and with a few adjustments, you'll land those punches cleanly and effectively!","SORUN: Boks yumruğunun açısı yanlış olduğu için hedef ıskalandı.  
+DÜZELTME: Yumruğunu fırlatırken dirsekten başlayarak kolunun açısını 90 derece tutmaya dikkat et ve hedefe odaklanarak vücut pozisyonunu düzelt.  
+MOTİVASYON: Her antrenman, seni daha güçlü ve daha yetenekli bir boksör yapacak; ilerlemeye devam et!"
+squat,all_wrong,low,incorrect,short,False,"PROBLEM: The squat movement lacks the necessary speed and is performed at an incorrect angle, resulting in a missed target.  
+FIX: Focus on increasing your descent speed while ensuring your knees track over your toes and your hips drop below parallel to achieve the right angle.  
+MOTIVATION: Keep pushing—you're on the path to mastering your squats, and I'm confident you'll nail it with a bit more practice!","SORUN: Squat egzersizinde hızın düşük olması, açının yanlış olması ve hareket süresinin kısa olması sonucu hedefin ıskalanıyor.  
+DÜZELTME: Önerim, squat hareketini daha yavaş ve kontrollü bir şekilde yaparak, dizlerinizi 90 derece açıda bükmeyi hedeflemeniz ve her tekrar arasında yeterli dinlenme süresi vermenizdir.  
+MOTİVASYON: Unutmayın, her tekrar sizi hedefinize daha da yaklaştırıyor! Devam edin, gelişim harika olacak!"
+squat,correct,good,correct,normal,True,"PROBLEM: No errors detected, but for optimal performance, consider enhancing your form for better efficiency.  
+FIX: Focus on maintaining an upright torso and pushing through your heels to improve stability and strength.  
+MOTIVATION: You're doing great—keep refining your technique to maximize your gains!","SORUN: Egzersizde herhangi bir hata tespit edilmediği için teknik açıdan bir sorun yok.  
+DÜZELTME: Mevcut performansı sürdürmek için düzenli olarak varyasyonlar ekleyerek kas gruplarını çeşitlendirin.  
+MOTİVASYON: Harika bir iş çıkardın, bu istikrarla daha da güçlü hale geleceksin!"
+squat,slow,low,correct,normal,False,"PROBLEM: The speed of the squat movement is too low, which caused you to miss the target.  
+FIX: Focus on transitioning more quickly between the downward and upward phases of the squat to increase your overall speed.  
+MOTIVATION: Keep pushing yourself, and remember that with practice, your speed and precision will improve!","SORUN: Squat hareketinin hızı düşük olduğu için hedeflenen noktaya ulaşmakta zorlanılıyor.  
+DÜZELTME: Hareti daha akıcı hale getirmek için ağırlığı azaltarak ve hareketi kontrollü bir şekilde yapmak için hız antrenmanları ekleyebilirsin. Ayrıca, doğru nefes almayı ve çıkış anında kuvvet uygulamayı unutma.  
+MOTİVASYON: Unutma, her antrenman seni daha güçlü ve dayanıklı kılmak için bir fırsat; ilerlemen için doğru yoldasın!"
+squat,slow_and_too_short,low,correct,short,False,"PROBLEM: The squat movement is being executed too slowly, resulting in a missed target and short duration.  
+FIX: Increase the speed of your descent and ascent to ensure full range of motion and properly hit the target.  
+MOTIVATION: Keep pushing yourself—you’re stronger than you think, and each rep brings you closer to your goals!","SORUN: Squat egzersizinin hızı düşük ve hareket süresi çok kısa olduğu için hedefin ıskalanıyor.  
+DÜZELTME: Squat yaparken hareketi daha yavaş ve kontrollü bir şekilde gerçekleştirin, böylece her pozisyonda yeterince süre kalacak ve hedefe ulaşacaksınız.  
+MOTİVASYON: Unutmayın, her tekrar sizi daha güçlü kılıyor; biraz sabır ve azimle mükemmelleşeceksiniz!"
+squat,slow_and_wrong_angle,low,incorrect,normal,False,"PROBLEM: The squat movement is being performed too slowly and with an incorrect angle, resulting in missing the target.  
+FIX: Increase the speed of your descent and ensure your knees are aligned with your toes at a 90-degree angle during the squat.  
+MOTIVATION: Keep pushing yourself, and soon you'll find that fluidity and proper form make all the difference in your performance!","SORUN: Squat hareketinin hızı düşük, açısı yanlış ve hedef ıskalanıyor.  
+DÜZELTME: Squat sırasında daha hızlı bir başlangıç yapmaya odaklan ve dizlerini vücudunun üzerine alarak doğru açıyla indirmeye çalış, aynada kendini kontrol ederek formunu düzelt.  
+MOTİVASYON: Unutma, her tekrar seni hedeflerine bir adım daha yaklaştırıyor; ilerle ve gücünü hisset!"
+squat,too_short,good,correct,short,False,"PROBLEM: The duration of the squat movement was too short, resulting in not achieving the desired depth.  
+FIX: Focus on extending the duration of the squat descent and ascent to ensure you reach the proper depth and maintain control throughout the movement.  
+MOTIVATION: You're doing great with your speed and angle, and with just a little more time in your squat, you'll see incredible improvements!","SORUN: Hareket süresi çok kısa olduğu için squat derinliğine ulaşılamıyor ve doğru hedef ıskalanıyor.  
+DÜZELTME: Hareketin süresini artırarak daha yavaş ve kontrollü bir şekilde squat yapmayı deneyin; dikkat edin, dizleriniz ayak parmaklarınızın önünde olmasın.  
+MOTİVASYON: İlerlemenizi görmek harika; sabırlı olun ve doğru formu yakaladığınızda daha güçlü hissedeceksiniz!"
+squat,wrong_angle,good,incorrect,normal,False,"PROBLEM: The squat angle is incorrect, which can lead to reduced effectiveness and potential injury.  
+FIX: Focus on keeping your knees in line with your toes and lower your hips back and down to achieve a proper squat angle, aiming for thighs parallel to the ground.  
+MOTIVATION: You're making great progress, and with a little adjustment, you'll master that squat in no time!","SORUN: Squat sırasında vücut pozisyonu ve eklem açıları doğru değil, bu da hedef kas gruplarının etkili bir şekilde çalışmamasına yol açıyor.  
+DÜZELTME: Squat sırasında dizlerinizi ayak parmaklarınızla aynı hizada tutmaya özen gösterin ve kalçalarınızı geriye doğru itin; bu, doğru açıyı elde etmenizi sağlayacaktır.  
+MOTİVASYON: Doğru formu bulduğunuzda, her egzersizle birlikte güçlenecek ve daha fazla ilerleme kaydedeceksiniz; devam edin, başarı sizinle!"
+uppercut,all_wrong,low,incorrect,short,False,"PROBLEM: The uppercut punch lacks the necessary speed and power due to an incorrect angle and insufficient duration of the movement.  
+FIX: Focus on generating more explosive upward movement from your legs and hips while adjusting your elbow angle to ensure the punch travels straight upward, extending the duration of the punch to follow through properly.  
+MOTIVATION: With consistent practice and attention to these details, you'll unleash a devastating uppercut that can surprise your opponents!","SORUN: Uppercut hızının düşük olması, açının yanlış ayarlanması, hareket süresinin kısa olması ve hedefin ıskalanması gibi sorunlar mevcut.  
+DÜZELTME: Öncelikle, uppercutun başlangıç pozisyonundan açısını 45 dereceye ayarlamanı ve boks torbasına doğru daha uzun bir hareket süresi sağlamanı öneriyorum; hızını artırmak için de düzenli hız çalışmaları yaparak vücut ağırlığını kullanarak atışlarını güçlendirebilirsin.  
+MOTİVASYON: Unutma, her büyük şampiyon önce denemeler yapar; sen de yaparak öğren ve gücünü keşfet!"
+uppercut,correct,good,correct,normal,True,"PROBLEM: The uppercut lacks consistent follow-through, which can reduce effectiveness.  
+FIX: Focus on driving through the target with your fist, extending your arm fully and rotating your shoulder for added power.  
+MOTIVATION: Keep refining your technique, and you'll see even greater results in your uppercut!","SORUN: Boks uppercut hareketinde belirgin bir hata tespit edilmedi.  
+DÜZELTME: Tekniği daha da geliştirmek için belirli bir takip ve kombinasyon alıştırması yaparak hareketin akışını artırabilirsiniz.  
+MOTİVASYON: Harika bir iş çıkardın, bu ilerleme ile daha da güçlü olacaksın!"
+uppercut,slow,low,correct,normal,False,"PROBLEM: The uppercut's speed is too low, resulting in a missed target.  
+FIX: Focus on explosiveness by driving your legs up through your hips and into your punch, ensuring you're utilizing your full body for added speed.  
+MOTIVATION: You have the potential to unleash powerful punches—keep pushing, and you'll nail that target!","SORUN: Uppercut hızının düşük olması ve hedefin ıskalanması ana sorun olarak tespit edilmiştir.  
+DÜZELTME: Hızınızı artırmak için antrenman sırasında önce hızlı ve hafif vuruşlar yaparak başlayın, ardından her tekrar için hızınızı kademeli olarak artırarak hedefe odaklanın.  
+MOTİVASYON: Unutmayın, her antrenman sizi daha da güçlendiriyor; biraz daha çalışın ve ustalığınızı göreceksiniz!"
+uppercut,slow_and_too_short,low,correct,short,False,"PROBLEM: The uppercut punch lacks both speed and duration, resulting in missed targets.  
+FIX: Focus on driving your hips and legs into the punch to increase acceleration, and practice extending the punch fully for a longer duration.  
+MOTIVATION: With consistent practice and these adjustments, you'll start landing those uppercuts with power and precision!","SORUN: Uppercut hareketinin hızı düşük ve süre çok kısa olduğundan hedef ıskalanıyor.  
+DÜZELTME: Antrenmanda hızınızı artırmak için daha fazla vücut mekaniklerine odaklanın; bacaklarınızı ve kalçanızı kullanarak vurduğunuz antrenman hızını artırmak için bantla direnç antrenmanı yapın.  
+MOTİVASYON: Doğru teknikle ve azimle çalışırsanız, rakibinizi nakavt etmek için gereken hıza ulaşacaksınız!"
+uppercut,slow_and_wrong_angle,low,incorrect,normal,False,"PROBLEM: The uppercut lacked speed and was delivered at an incorrect angle, resulting in a missed target.  
+FIX: Focus on generating power from your legs and core while adjusting your elbow position to ensure a more vertical punch trajectory.  
+MOTIVATION: You're making great progress, and with a few adjustments, you'll be landing those uppercuts like a pro!","SORUN: Uppercut hareketinin hızı düşük, açısı yanlış ve hedef ıskalanıyor.  
+DÜZELTME: Öncelikle, hızınızı artırmak için ayaklarınızı yere sağlam basarak daha iyi bir zemin dengesi sağlayın ve vücudunuzu daha fazla kullanarak bacak gücünüzle birleşik bir hareket oluşturun. Açıyı düzeltmek için dirseğinizi yukarı doğru kaldırarak ve omzunuzla birlikte döndürerek hedefi daha doğru bir şekilde hedefleyin.  
+MOTİVASYON: Unutmayın, her antrenman sizi daha güçlü ve daha yetenekli bir boksör yapıyor; ilerlemenizi görmek için kendinize güvenin!"
+uppercut,too_short,good,correct,short,False,"PROBLEM: The uppercut duration is too short, resulting in a missed target.  
+FIX: Focus on extending the follow-through of your punch while maintaining fluidity in your movement to ensure you fully connect with the target.  
+MOTIVATION: Keep pushing yourself; refining your technique will lead to improved accuracy and power in your punches!","SORUN: Uppercut hareketinin süresi çok kısa olduğu için hedef ıskalanıyor.  
+DÜZELTME: Hareti yavaşlatmak ve hedefe odaklanarak hareketi daha kontrollü bir şekilde yapmak için antrenman sırasında yavaş tempoda çalışabilirsin.  
+MOTİVASYON: Unutma, her büyük şampiyon, tekniklerini geliştirmek için zaman harcayarak başarıyı kazanır!"
+uppercut,wrong_angle,good,incorrect,normal,False,"PROBLEM: The uppercut angle is incorrect, causing you to miss the target.  
+FIX: Focus on dropping your shoulder and rotating your hips to create a more upward trajectory for your punch, aiming to connect with your opponent's chin.  
+MOTIVATION: You're showing great speed and dedication—refining your angle will take your uppercut to the next level!","SORUN: Uppercut açın yanlış olduğu için hedefi ıskalıyorsun.  
+DÜZELTME: Öncelikle dizlerini hafifçe bükerek, üst vücudunu hafifçe öne doğru eğ ve yumruğunu yukarı doğru, çenenin altına doğru yönlendir. Bu, açını düzeltmene ve hedefe daha isabetli bir şekilde ulaşmana yardımcı olacaktır.  
+MOTİVASYON: Unutma, her antrenman seni daha iyi bir boksör yapıyor; kararlılık ve azimle başarıya ulaşacaksın!"

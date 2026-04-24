@@ -1,0 +1,28 @@
+movement,scenario,speed,angle,duration,hit,feedback
+punch,correct,good,correct,normal,True,"PROBLEM: While no errors were detected, enhancing target precision could elevate performance.  
+FIX: Focus on improving accuracy by incorporating target drills into your training routine.  
+MOTIVATION: You're already doing great; refining this skill will make your punches even more powerful!"
+punch,slow,low,correct,normal,False,"PROBLEM: The punch lacks the necessary speed, resulting in a missed target.  
+FIX: Focus on generating more explosive power from your legs and hips to increase punch speed.  
+MOTIVATION: With dedication and practice, you'll develop the quickness needed to land your punches effectively!"
+punch,wrong_angle,good,incorrect,normal,False,"PROBLEM: The punch angle is incorrect, causing the target to be missed.  
+FIX: Adjust your elbow position to ensure the punch travels on a straight path toward the target.  
+MOTIVATION: Keep pushing forward; precise adjustments will lead to your success in the ring!"
+shoulder_rotation,correct,good,correct,normal,True,"PROBLEM: The exercise showed no detected issues, indicating proper execution.  
+FIX: Continue maintaining the current form and focus on consistency in execution during practice.  
+MOTIVATION: Keep up the great work; your dedication is paying off, and you’re on the path to improvement!"
+shoulder_rotation,slow,low,correct,normal,False,"PROBLEM: Speed is too low, resulting in missed targets.  
+FIX: Increase the intensity of your shoulder rotation by focusing on quick, explosive movements during the exercise.  
+MOTIVATION: Remember, consistent practice at a faster pace will help you hit those targets more effectively!"
+shoulder_rotation,wrong_angle,good,incorrect,normal,False,"PROBLEM: The shoulder rotation angle is incorrect, causing the target to be missed.  
+FIX: Adjust your arm position to maintain a 90-degree angle during the rotation to ensure proper alignment with the target.  
+MOTIVATION: You're doing great with your speed—let's fine-tune your technique to hit that target perfectly!"
+squat,correct,good,correct,normal,True,"PROBLEM: Your squat form is solid, but there's always room for improvement in depth.  
+FIX: Aim to lower your hips slightly below parallel to maximize muscle engagement.  
+MOTIVATION: You're doing great—keep pushing your limits for even better results!"
+squat,slow,low,correct,normal,False,"PROBLEM: The squat speed is too low and the target was missed.  
+FIX: Focus on accelerating upward during the ascent phase of the squat to increase speed.  
+MOTIVATION: With consistent effort and focus on your technique, you'll soon hit your targets and build strength!"
+squat,wrong_angle,good,incorrect,normal,False,"PROBLEM: The squat angle is incorrect, causing the target position to be missed.  
+FIX: Focus on lowering your hips back and down while keeping your chest up to achieve the proper squat depth.  
+MOTIVATION: You're doing great with your speed, and with a little adjustment, you’ll nail that angle!"

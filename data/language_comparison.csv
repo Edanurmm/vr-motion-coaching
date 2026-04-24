@@ -1,0 +1,36 @@
+scenario,english,turkish
+all_wrong,"PROBLEM: The punch lacks speed and the angle is off, resulting in a missed target.  
+FIX: Focus on generating explosive power from your legs and pivoting your hips to increase speed and adjust your angle toward the target.  
+MOTIVATION: Keep pushing yourself, each practice gets you closer to delivering that perfect punch!","SORUN: Yumruk hızının düşük olması, açının yanlış ayarlanması ve yumruk süresinin kısa olması nedeniyle hedef ıskalanıyor.  
+DÜZELTME: Yumruğunu daha hızlı atmak için vücut tümünü kullanarak daha güçlü bir pivot yapmayı ve hedefe yönelik açıları daha iyi ayarlamayı çalış.  
+MOTİVASYON: Unutma, her antrenman seni daha güçlü ve daha doğru bir boksör haline getiriyor; başaracağını biliyorum!"
+correct,"PROBLEM: The punch lacks power due to insufficient body alignment.  
+FIX: Focus on rotating your hips and shoulders more during the punch to generate maximum force.  
+MOTIVATION: Keep pushing yourself, and you’ll see your punches becoming even stronger and more effective!","SORUN: Yumruk hareketinde herhangi bir hata tespit edilmediği için teknik geliştirme yapılabilir.  
+DÜZELTME: Antrenman sırasında farklı açılardan ve hızlarda yumruk atma pratiği yaparak teknik çeşitliliği artırabilirsin.  
+MOTİVASYON: Harika bir iş çıkardın, bu başarıyı daha da ileri taşımak için her gün biraz daha kendini geliştir!"
+slow,"PROBLEM: The punch lacked speed, resulting in a missed target.  
+FIX: Focus on explosive power from your legs and hips to generate more speed in your punches.  
+MOTIVATION: With practice, you’ll unleash your true potential and land every shot like a pro!","SORUN: Yumruk hızı düşük ve hedef ıskalanıyor.  
+DÜZELTME: Antrenman sırasında hız odaklı egzersizler yaparak darbe hızını artırmaya çalış ve hedefe odaklanarak isabet oranını yükselt.  
+MOTİVASYON: Unutma, her antrenman seni daha güçlü ve daha yetenekli yapıyor, pes etme ve gelişmeye devam et!"
+slow_and_too_short,"PROBLEM: The punch speed is too low, which affects its effectiveness.  
+FIX: Focus on generating power from your legs and hips to increase the speed of your punches.  
+MOTIVATION: Keep pushing yourself; with the right technique, you'll see your speed improve and your punches become more impactful!","SORUN: Yumruk hızının düşük olması ve süresinin kısa olması nedeniyle hedef ıskalanıyor.  
+DÜZELTME: Antrenman boyunca yumruk hızını artırmak için kuvvet ve hız odaklı egzersizler yaparak, yumruk atarken vücudun dinamik dengesini geliştirin.  
+MOTİVASYON: Unutma, her antrenman seni daha güçlü kılıyor; azimle çalıştıkça başarıya ulaşacaksın!"
+slow_and_wrong_angle,"PROBLEM: The punch lacks speed, has an incorrect angle, and misses the target.  
+FIX: Focus on pivoting your hips and transferring weight to generate more power, while ensuring your punch aligns directly with the target.  
+MOTIVATION: With practice and proper technique, you'll unleash the speed and accuracy needed to land those punches effectively!","SORUN: Yumruk hızının düşük olması, yanlış açı ile atılması ve hedefin ıskalanması büyük bir sorun oluşturuyor.  
+DÜZELTME: Yumruk hızını artırmak için sürekli interval antrenmanları yaparak pekiştirici darbelerle hız çalışmaları yapabilir, açıyı düzeltmek için ayna karşısında formunu kontrol ederek hedefe daha doğrudan ve isabetli vuruşlar yapabilirsin.  
+MOTİVASYON: Unutma, her hata bir öğrenme fırsatıdır; istikrarlı bir şekilde çalışırsan daha güçlü ve etkili bir boksör olacaksın!"
+too_short,"PROBLEM: The punch duration is too short and the target was missed.  
+FIX: Focus on extending your arm fully during the punch and maintain your follow-through to ensure you reach the target effectively.  
+MOTIVATION: With practice and persistence, you'll master your timing and accuracy!","SORUN: Yumruk süresi çok kısa ve hedef ıskalandı.  
+DÜZELTME: Yumruk atma süresini uzatabilmek için antrenman sırasında hedefe odaklanmayı ve vuruşun ardından geri çekilme süresini artırmayı deneyin.  
+MOTİVASYON: Unutma, her antrenman seni daha da güçlendirecek ve hedeflerine yaklaşmanı sağlayacak!"
+wrong_angle,"PROBLEM: The punch angle was incorrect, resulting in a missed target.  
+FIX: Adjust your elbow position to ensure your fist is aligned properly with the target when you throw the punch.  
+MOTIVATION: Keep refining your technique, and you'll hit your target with precision every time!","SORUN: Yumruk açısı yanlış olduğu için hedef ıskalanıyor.  
+DÜZELTME: Yumruk atarken dirseğini vücuduna yakın tutarak daha doğru bir açı yakalamaya çalış ve hedefin üzerine odaklan.  
+MOTİVASYON: Unutma, her hatadan öğrenerek daha güçlü ve etkili bir boksör olacaksın!"
