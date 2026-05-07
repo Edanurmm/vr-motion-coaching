@@ -19,7 +19,7 @@ This system analyzes human motion in VR environments and provides real-time AI-p
 - Generalizability across 3 movement types
 
 
-![System Demo](./assets/page1.png)
+![System Demo](./screenshots/page1.png)
 
 *Figure 1. VR Motion Coaching Dashboard under the **“correct” scenario selection**, showing end-to-end system behavior including motion analysis, ML prediction, and LLM-based coaching feedback.*
 
@@ -40,7 +40,7 @@ Flask API (Python Backend)
 RF Model      OpenAI API
 (scikit-learn)  (GPT-4o mini)
 
-![Architecture Flow](./assets/page2.png)
+![Architecture Flow](./screenshots/page2.png)
 
 *Figure 2. Processing pipeline visualization under the **“correct” scenario**, illustrating the flow from input motion parameters to ML classification and LLM-generated coaching feedback.*
 
@@ -57,7 +57,7 @@ All visual results presented in this section are obtained under the predefined *
 | Best Prompt | V3 — Structured format |
 | Language Winner | Turkish (4/7 scenarios) |
 
-![Model Performance](./assets/page3.png)
+![Model Performance](./screenshots/page3.png)
 
 *Figure 3. Random Forest model performance and confusion matrix results obtained under the **“correct” scenario**, demonstrating classification reliability.*
 
@@ -142,7 +142,7 @@ Three prompt strategies were compared:
 - **V2 (Enhanced):** Explicit problem listing — accurate but verbose  
 - **V3 (Structured):** PROBLEM/FIX/MOTIVATION format — most consistent ✅
 
- ![LLM Output Comparison](./assets/page3.1.png)
+ ![LLM Output Comparison](./screenshots/page3.1.png)
 
 *Figure 4. LLM feedback comparison across prompt strategies (V1, V2, V3) and languages (Turkish vs English) under the **“correct” scenario**, highlighting differences in explanation quality and consistency.*
 
